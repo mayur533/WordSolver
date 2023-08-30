@@ -8,7 +8,7 @@ A Python program to find words from a given set of letters and a specified lengt
 ## Usage 
 - Make sure you have Python installed and required libraries
   
-##Shortcuts: 
+## Shortcuts: 
 - Enter (search), Up/Down (switch inputs)  
 
 Enjoy word-solving!
